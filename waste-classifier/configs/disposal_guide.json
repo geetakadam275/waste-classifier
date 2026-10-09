@@ -1,0 +1,32 @@
+{
+  "cardboard": {
+    "recyclable": true,
+    "bin": "Dry recyclables (blue bin)",
+    "tip": "Flatten boxes and keep them dry. Remove tape and packing material. Greasy or wet cardboard (e.g. pizza box) is not recyclable."
+  },
+  "glass": {
+    "recyclable": true,
+    "bin": "Glass recycling / dry recyclables",
+    "tip": "Rinse bottles and jars, remove caps. Do not mix with ceramics, mirrors or window glass. Wrap broken glass safely."
+  },
+  "metal": {
+    "recyclable": true,
+    "bin": "Dry recyclables (blue bin)",
+    "tip": "Rinse cans and foil. Empty aerosol cans only if fully empty. Scrap metal can go to a local scrap dealer."
+  },
+  "paper": {
+    "recyclable": true,
+    "bin": "Dry recyclables (blue bin)",
+    "tip": "Keep paper clean and dry. Tissues, paper towels and waxed or laminated paper are not recyclable."
+  },
+  "plastic": {
+    "recyclable": true,
+    "bin": "Dry recyclables (blue bin)",
+    "tip": "Rinse, remove caps and labels, and crush bottles. Check the resin code; thin films and bags often need special drop-off."
+  },
+  "trash": {
+    "recyclable": false,
+    "bin": "General waste (black bin)",
+    "tip": "Not recyclable. Put in general waste. Hazardous items (batteries, e-waste, medical) need special collection points."
+  }
+}
